@@ -2,6 +2,10 @@
 
 > Nuxt.js project
 
+# Live Demo
+
+> https://airport-tablo.herokuapp.com/
+
 ## Build Setup
 
 ``` bash
