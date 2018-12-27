@@ -15,10 +15,10 @@
   background-size: cover;
   display: flex;
   flex-direction: column;
-  padding: 24px;
+  padding: 3rem;
 }
 .main-header {
-  font-size: calc(45 * 1px + (260 - 45) * (100vw - 320 * 1px) / (1920 - 20));
+  font-size: 5rem;
 }
 .main-link {
   color: white;
@@ -27,16 +27,6 @@
 }
 .main-link:hover {
   color: #ffac02;
-}
-@media (min-width: 600px) {
-  .main {
-    padding: 56px;
-  }
-}
-@media (min-width: 960px) {
-  .main {
-    padding: 90px;
-  }
 }
 </style>
 
